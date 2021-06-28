@@ -1,0 +1,9 @@
+tipo_titular:
+
+1 cliente
+2 fornecedor
+3 vendedor
+4 funcionario
+
+status_venda:
+
